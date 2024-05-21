@@ -13,21 +13,21 @@ Simple Code of CRUD (Create, Read, Update, Delete) using Laravel 10 and Tailwind
 
 ## Register Preview
 
-![preview img](/public/admin_assets/img/preview-register.png).
+![preview img](/public/admin_assets/img/preview-register.png)
 
 ## Login Preview
 
-![preview img](/public/admin_assets/img/preview-login.png).
+![preview img](/public/admin_assets/img/preview-login.png)
 
 ### Dashboard Preview
 
-![preview img](/public/admin_assets/img/preview-dashboard.png).
+![preview img](/public/admin_assets/img/preview-dashboard.png)
 
 ## CURD Preview
 
-![preview img](/public/admin_assets/img/preview-crud.png).
+![preview img](/public/admin_assets/img/preview-crud.png)
 
 ## Profile Preview
 
-![preview img](/public/admin_assets/img/preview-profile.png).
+![preview img](/public/admin_assets/img/preview-profile.png)
 
